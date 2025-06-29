@@ -86,12 +86,20 @@ Sourced from [Tokyo Olympics 2021 Dataset - Kaggle](https://www.kaggle.com/datas
 > How efficient a team was based on medals per entry
 
 ---
+## 📸 Screenshots
 
-## 📸 Screenshots (Optional)
+### 🎯 1. Top Countries by Medals
+![Top Countries Chart](Screenshots/top_countries_by_medals.jpeg)
 
-_Include visual screenshots here of Synapse Studio charts, if available._
+### 🎯 2. Gender Gap by Discipline
+![Gender Gap Chart](Screenshots/gender_gap_analytics.jpeg)
 
----
+### 🎯 3. Coaching Efficiency
+![Coaching Impact Chart](Screenshots/coaching_impact.jpeg)
+
+### 🎯 4. Team Medal Efficiency
+![Team Efficiency Chart](Screenshots/team_efficiency.jpeg)
+
 
 ## 🎯 What I Learned
 
@@ -101,14 +109,4 @@ _Include visual screenshots here of Synapse Studio charts, if available._
 - Built lightweight **dashboards** inside Azure
 
 ---
-
-## 🧪 To Reproduce (Optional)
-
-> Coming soon: step-by-step setup instructions for anyone who wants to reproduce this project in their own Azure environment
-
----
-
-## 👋 Let's Connect
-
-If you liked this project or have feedback, feel free to reach out or connect with me on [LinkedIn](#) 🚀
 
