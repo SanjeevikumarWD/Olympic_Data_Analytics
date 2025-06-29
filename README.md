@@ -4,21 +4,21 @@ A complete end-to-end data engineering solution built using Microsoft Azure tool
 
 ---
 
-## 🚀 Project Goals
+##  Project Goals
 
-- 🔍 Ingest, clean, and transform Olympic data
-- 📈 Generate actionable insights for federations, coaching staff, and analysts
-- 🧠 Showcase gender balance, medal efficiency, and coaching impact
-- 🧰 Build an enterprise-scale pipeline using real Azure services
+-  Ingest, clean, and transform Olympic data
+-  Generate actionable insights for federations, coaching staff, and analysts
+-  Showcase gender balance, medal efficiency, and coaching impact
+-  Build an enterprise-scale pipeline using real Azure services
 
 ---
 
-## 📊 Architecture
+##  Architecture
 
 ![Architecture](Screenshots/Architecture.jpeg)
 
 ---
-## 🧰 Technologies Used
+##  Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -31,7 +31,7 @@ A complete end-to-end data engineering solution built using Microsoft Azure tool
 
 ---
 
-## 🗃️ Dataset Overview
+## 🗃 Dataset Overview
 
 Sourced from [Tokyo Olympics 2021 Dataset - Kaggle](https://www.kaggle.com/datasets), includes:
 
@@ -43,7 +43,7 @@ Sourced from [Tokyo Olympics 2021 Dataset - Kaggle](https://www.kaggle.com/datas
 
 ---
 
-## 🔁 Pipeline Stages
+##  Pipeline Stages
 
 ### 1. **Data Ingestion**
 - Used Azure Data Factory to copy CSV files from GitHub to **Raw** zone in ADLS Gen2
@@ -72,37 +72,37 @@ Sourced from [Tokyo Olympics 2021 Dataset - Kaggle](https://www.kaggle.com/datas
 
 ---
 
-## 📈 Business Insights
+##  Business Insights
 
-### 🏅 TopCountriesByMedals
+### TopCountriesByMedals
 > Identify countries dominating the medal tally
 
-### ⚖️ GenderEquity
+###  GenderEquity
 > Showcases disciplines with high gender imbalance to support equity efforts
 
-### 👨‍🏫 CoachingImpact
+###  CoachingImpact
 > Medals won per coach, per country/discipline
 
-### 🧠 TeamEfficiency
+###  TeamEfficiency
 > How efficient a team was based on medals per entry
 
 ---
-## 📸 Screenshots
+##  Screenshots
 
-### 🎯 1. Top Countries by Medals
+###  1. Top Countries by Medals
 ![Top Countries Chart](Screenshots/top_countries_by_medals.jpeg)
 
-### 🎯 2. Gender Gap by Discipline
+###  2. Gender Gap by Discipline
 ![Gender Gap Chart](Screenshots/gender_gap_analytics.jpeg)
 
-### 🎯 3. Coaching Efficiency
+###  3. Coaching Efficiency
 ![Coaching Impact Chart](Screenshots/coaching_impact.jpeg)
 
-### 🎯 4. Team Medal Efficiency
+###  4. Team Medal Efficiency
 ![Team Efficiency Chart](Screenshots/team_efficiency.jpeg)
 
 
-## 🎯 What I Learned
+##  What I Learned
 
 - Real-world usage of **Azure Data Factory**, **Databricks**, and **Synapse**
 - How to build an end-to-end data pipeline from scratch
