@@ -15,6 +15,7 @@ A complete end-to-end data engineering solution built using Microsoft Azure tool
 
 ## 📊 Architecture
 
+![Architecture](Screenshots/Architecture.jpeg)
 
 ---
 ## 🧰 Technologies Used
